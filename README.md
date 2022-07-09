@@ -1,4 +1,5 @@
 # select2-template
+DEMO [vue3-select-example](https://akipham15.github.io/vue3-select-example/)
 
 ## Project setup
 ```
